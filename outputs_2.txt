@@ -1,0 +1,26 @@
+Program starting.
+Options:
+1 - List notes
+2 - View note
+3 - Add note
+4 - Edit note
+5 - Delete note
+0 - Exit
+Your choice: Insert title: Insert the amount of rows: Insert row 1: Insert row 2: Note stored!
+
+Options:
+1 - List notes
+2 - View note
+3 - Add note
+4 - Edit note
+5 - Delete note
+0 - Exit
+Your choice: 
+Options:
+1 - List notes
+2 - View note
+3 - Add note
+4 - Edit note
+5 - Delete note
+0 - Exit
+Your choice: 
